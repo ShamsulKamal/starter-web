@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shamsul Kamal shamsulkamal.abubakar@gmail.com @shamsul_kamal
 
 # THANKS
 
